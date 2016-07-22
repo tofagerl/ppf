@@ -6,6 +6,7 @@
   "description": "PayPal Fee Calculator",
   "license": "ISC",
   "name": "ppf",
+  "repository":"tofagerl/ppf",
   "preferGlobal": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
